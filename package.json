@@ -1,0 +1,19 @@
+{
+  "name": "arp",
+  "version": "0.0.1",
+  "description" : "Read the ARP table to find MAC addresses",
+  "dependencies": {
+  	"nodeunit": ">=0.5.2"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/arp",
+  "engines": {
+    "node": "*"
+  },
+  "repository" : { 
+      "type" : "git" , "url" : "https://github.com/teknopaul/arp.git" 
+  },
+  "author": "teknopaul"
+}
