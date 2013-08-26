@@ -1,6 +1,6 @@
 var assert = 	require('assert');
 var nodeunit = 	require('nodeunit');
-var arp = 	require('arp');
+var arp = 	require('node-arp');
 
 
 /**
