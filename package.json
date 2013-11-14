@@ -1,6 +1,6 @@
 {
   "name": "node-arp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description" : "Read the ARP table to find MAC addresses (forked from tecknopaul)",
   "dependencies": {
   	"nodeunit": ">=0.5.2"
