@@ -1,6 +1,6 @@
 {
   "name": "arp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description" : "Read the ARP table to find MAC addresses",
   "dependencies": {
   	"nodeunit": ">=0.5.2"
