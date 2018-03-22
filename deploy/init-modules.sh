@@ -1,4 +1,5 @@
 #!/bin/bash
 
 cd $(dirname $0)/..
-npm install nodeunit
+# nodeunit is too heavy for linci now
+#npm install nodeunit

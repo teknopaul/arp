@@ -1,10 +1,7 @@
 {
   "name": "arp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description" : "Read the ARP table to find MAC addresses",
-  "devDependencies": {
-  	"nodeunit": ">=0.5.2"
-  },
   "directories": {
     "lib": "./lib"
   },
